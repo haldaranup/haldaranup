@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anup!]() 
 
-## Github Statistics
+<h2 align="center"> Github Statistics </h2>
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=tokyonight" />     
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
