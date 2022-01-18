@@ -1,5 +1,11 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anup!]() 
 
+## Github Statistics
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=tokyonight" />     
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
+     <p/>
+
 ## Languages
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight"
@@ -8,11 +14,7 @@
 <img
      src="https://activity-graph.herokuapp.com/graph?username=Samadrita-Shaw&theme=chartreuse-dark"
      /> -->
-## Github Statistics
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=tokyonight" />     
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
-     <p/>
+
 
 <!-- <h2 align="center"> Github Statistics </h2> -->
 
