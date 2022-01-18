@@ -15,10 +15,10 @@
 <!-- <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anup-haldar-366b851b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anup-haldar-366b851b4" height="30" width="40" /></a>
 </p> -->
-<a href="https://www.linkedin.com/in/haldar-anup" target="_blank">
+<a href="https://www.linkedin.com/in/haldar-anup">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/anupstwt" target="_blank">
+<a href="https://twitter.com/anupstwt">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
@@ -26,6 +26,10 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
   </p>
+  
+  
+  
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- <a href="mailto:anuphaldar14872@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
