@@ -1,13 +1,26 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anup!]() 
 
+## Languages
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight"
+     />
+<!-- ## Contribution Graph 📊
+<img
+     src="https://activity-graph.herokuapp.com/graph?username=Samadrita-Shaw&theme=chartreuse-dark"
+     /> -->
+## Github Statistics
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=tokyonight" />     
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
+     <p/>
 
-<h2 align="center"> Github Statistics </h2>
+<!-- <h2 align="center"> Github Statistics </h2> -->
 
 <!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
 
-| <img src="https://github-readme-stats.vercel.app/api?username=haldaranup&layout=compact&hide=html&theme=jolly" alt="anup" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" /> |
+<!-- | <img src="https://github-readme-stats.vercel.app/api?username=haldaranup&layout=compact&hide=html&theme=jolly" alt="anup" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" /> |
 | --- | --- |
-<!-- | ![Anup GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haldaranup) | -->
+<!-- | ![Anup GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haldaranup) | --> -->
 
 <!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
 
