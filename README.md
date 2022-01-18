@@ -3,14 +3,18 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anup-haldar-366b851b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anup-haldar-366b851b4" height="30" width="40" /></a>
 </p> -->
-<a href="https://www.linkedin.com/in/anupstwt">
+<a href="https://www.linkedin.com/in/haldar-anup">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/">
+<a href="https://twitter.com/anupstwt">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:anuphaldar14872@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a href="https://www.instagram.com/anup.haldar7/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
