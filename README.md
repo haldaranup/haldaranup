@@ -1,5 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anup!]() 
-<!-- <h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3>
+<!-- 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anup-haldar-366b851b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anup-haldar-366b851b4" height="30" width="40" /></a>
 </p> -->
@@ -9,12 +11,14 @@
 <a href="https://twitter.com/anupstwt" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:anuphaldar14872@gmail.com" target="_blank">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
 <a href="https://www.instagram.com/anup.haldar7/" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<h3 align="left">Contact:</h3>
+<a href="mailto:anuphaldar14872@gmail.com" target="_blank">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
