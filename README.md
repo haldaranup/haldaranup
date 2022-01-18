@@ -22,7 +22,7 @@
 
 <!-- | <img src="https://github-readme-stats.vercel.app/api?username=haldaranup&layout=compact&hide=html&theme=jolly" alt="anup" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" /> |
 | --- | --- |
-<!-- | ![Anup GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haldaranup) | --> -->
+<!-- | ![Anup GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haldaranup) | -->
 
 <!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
 
