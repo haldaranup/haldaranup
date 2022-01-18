@@ -15,7 +15,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<h3 align="left">Contact:</h3>
+## Contact:
 <!-- <a href="mailto:anuphaldar14872@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> -->
