@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anup!]() 
 
-<h2 align="center"> Github Statistics </h2>
+<h2 align="center">Statistics </h2>
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=tokyonight" />     
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
@@ -24,7 +24,7 @@
 | --- | --- |
 <!-- | ![Anup GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haldaranup) | -->
 
-<!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h2 align="left">Let's Connect!<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 
