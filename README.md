@@ -15,6 +15,11 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<h2 align="center"> Github Statistics </h2>
+
+
+| <img src="https://github-readme-stats.vercel.app/api?username=haldaranup&layout=compact&hide=html&theme=jolly" alt="anup" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" /> |
+| --- | --- |
 
 <!-- <a href="mailto:anuphaldar14872@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
