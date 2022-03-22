@@ -43,7 +43,9 @@
 </a>
 
 <p><a href="https://www.instagram.com/haldaranup1/">
- <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+ <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+
+<!--  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /> -->
 
 <!--   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> -->
 </a>
