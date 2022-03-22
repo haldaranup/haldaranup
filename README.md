@@ -36,7 +36,7 @@
 
 <!--   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> -->
 </a>
-<a href="https://twitter.com/anupstwt">
+<a href="https://twitter.com/anupstwt" target="_blank">
  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 
 <!--   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> -->
