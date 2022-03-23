@@ -20,14 +20,14 @@
 <h2 align="left">Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
  
 <a href="https://www.linkedin.com/in/haldar-anup">
-<!--  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  /> -->
+ <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 
- <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+<!--  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> -->
 </a>
 <a href="https://twitter.com/anupstwt" target="_blank">
-<!--  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" /> -->
+ <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<!-- <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> -->
 </a>
 
 <a href="mailto:anuphaldar14872@gmail.com">
@@ -37,9 +37,9 @@
 <p><a href="https://www.instagram.com/haldaranup1/">
 <!--  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /> -->
 
-<!--  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /> -->
+ <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<!--   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> -->
 </a>
   </p>
   
