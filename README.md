@@ -8,9 +8,9 @@
 
 ## Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight" />
-<!-- <h2 align="center">Contribution Graph 📊</h2>
+<h2 align="center">Contribution Graph 📊</h2>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" /> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" />
 
 
 
@@ -31,14 +31,7 @@
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
  
-<!--   <a href="https://medium.com/@haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alok722" height="30" width="40" /></a>
-
-<a href="https://instagram.com/haldaranup1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alok722_" height="30" width="40" /></a> -->
- 
-
-
  <p>
-
 <a href="https://www.instagram.com/haldaranup1/">
  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 
