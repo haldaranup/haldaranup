@@ -15,7 +15,7 @@
 
 
 <h2 align="left">Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
- <p>
+ 
 <a href="https://www.linkedin.com/in/haldar-anup">
  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 
@@ -38,7 +38,6 @@
 
 
  
-</p>
 <!-- 
 <a href="https://www.instagram.com/haldaranup1/">
  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /> -->
