@@ -8,9 +8,7 @@
 
 ## Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight" />
-<!-- <h2 align="center">Contribution Graph 📊</h2>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" /> -->
 
 
 
@@ -37,7 +35,11 @@
 
 <!--   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> -->
 </a></p>
-  
+ 
+ 
+ <!-- <h2 align="center">Contribution Graph 📊</h2>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" /> -->
   
   
 <!-- 
