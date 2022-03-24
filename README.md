@@ -8,9 +8,9 @@
 
 ## Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight" />
-<h2 align="center">Contribution Graph 📊</h2>
+<!-- <h2 align="center">Contribution Graph 📊</h2>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" />
+<img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" /> -->
 
 
 
