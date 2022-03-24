@@ -31,19 +31,19 @@
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
  
-  <a href="https://medium.com/@haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alok722" height="30" width="40" /></a>
+<!--   <a href="https://medium.com/@haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alok722" height="30" width="40" /></a>
 
-<a href="https://instagram.com/haldaranup1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alok722_" height="30" width="40" /></a>
+<a href="https://instagram.com/haldaranup1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alok722_" height="30" width="40" /></a> -->
  
 
 
- 
-<!-- 
+ <p>
+
 <a href="https://www.instagram.com/haldaranup1/">
- <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /> -->
+ <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 
 <!--   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> -->
-<!-- </a> -->
+</a></p>
   
   
   
