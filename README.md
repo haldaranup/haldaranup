@@ -10,7 +10,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight" />
 
 
+<h2 align="center">Contribution Graph 📊</h2>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" />
 
  
   
@@ -44,9 +46,7 @@
 
 
 
- <h2 align="center">Contribution Graph 📊</h2>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" />
+ 
 
 
 <!-- **haldaranup/haldaranup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
