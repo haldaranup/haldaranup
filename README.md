@@ -12,6 +12,9 @@
 
 
  
+<h2 align="center">Contribution Graph 📊</h2>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" />
   
   
 
@@ -21,9 +24,6 @@
 
 
 
-<h2 align="center">Contribution Graph 📊</h2>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" />
 
 
 
