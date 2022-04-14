@@ -6,7 +6,7 @@
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
      <p/>
      
-__
+##
 
 ## Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight" />
