@@ -41,7 +41,7 @@
 
 </a>
 
-<a href="mailto:anuphaldar14872@gmail.com">
+<a href="mailto:haldaranup.github@gmail.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
  
