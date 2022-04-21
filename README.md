@@ -5,7 +5,7 @@
 - Creative designer & specializes in front-end development
 - Open-source enthusiastic -->
 
----
+
 
 <h2 align="center">Statistics </h2>
 <p align="center">
