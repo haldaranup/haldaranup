@@ -1,13 +1,15 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anup](https://haldaranup.github.io/), Great to see you here!
 
-## I am a -
+<div>
+I am a -
 - ✨ Full-stack web developer
 - ✨ Creative designer & specializes in front-end development
 - ✨ Open-source enthusiastic
 
 <div align="right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" margin-top="-200" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
+  </div>
 
 
 
