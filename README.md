@@ -2,9 +2,9 @@
 
 <div>
 I am a -
-- ✨ Full-stack web developer
-- ✨ Creative designer & specializes in front-end development
-- ✨ Open-source enthusiastic
+  <p>✨ Full-stack web developer</p>
+  <p>✨ Creative designer & specializes in front-end development</p>
+  <p>✨ Open-source enthusiastic</p>
 
 <div align="right">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
