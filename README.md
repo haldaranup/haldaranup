@@ -5,14 +5,9 @@
   - 🌱 I’m currently learning TypeScript
   - ⚡ A creative designer & specializes in front-end development
   - 👯 Open-source enthusiastic
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/> -->
   
-<!-- 
-<div align="right">
   
-</div> -->
-
-
 
 
 <h2 align="center">Statistics </h2>
