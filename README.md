@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anup](https://haldaranup.github.io/), Great to see you here!
 
 
-## I'am a:
+## I'm a:
   <p>✨ Full-stack web developer</p>
   <p>⚡ Creative designer & specializes in front-end development</p>
   <p>👯 Open-source enthusiastic</p>
