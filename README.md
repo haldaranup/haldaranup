@@ -5,10 +5,11 @@
   <p>🌱 I’m currently learning TypeScript</p>
   <p>⚡ A creative designer & specializes in front-end development</p>
   <p>👯 Open-source enthusiastic</p>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
   
 <!-- 
 <div align="right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+  
 </div> -->
 
 
