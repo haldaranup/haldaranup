@@ -5,6 +5,10 @@
 - ✨ Creative designer & specializes in front-end development
 - ✨ Open-source enthusiastic
 
+<div align="right">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 
 
 <h2 align="center">Statistics </h2>
