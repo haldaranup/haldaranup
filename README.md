@@ -68,7 +68,7 @@ ___
 
 </a>
   
- <a href="https://medium.com/haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sdfsd" height="30" width="40" />
+ <a href="https://medium.com/haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sdfsd" height="28" width="36" />
  </a>
   
  </p>
