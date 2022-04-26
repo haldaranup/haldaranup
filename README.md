@@ -52,7 +52,7 @@ ___
 
 </a>
 <a href="https://twitter.com/haldar_anup1" target="_blank">
- <img align="left" height="28" width="28px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+ <img align="left" height="26" width="28px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 
 </a>
 
@@ -68,7 +68,7 @@ ___
 
 </a>
   
- <a href="https://medium.com/haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haldaranup" height="26" width="32" />
+ <a href="https://medium.com/haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haldaranup" height="26" width="30" />
  </a>
   
  </p>
