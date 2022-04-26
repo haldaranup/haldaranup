@@ -3,7 +3,7 @@
 
   -  I'm a full-stack web developer
   -  Currently learning TypeScript
-  -  A creative designer & specializes in front-end development
+  -  Creative designer & specializes in front-end development
   -  Open-source enthusiast
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/> -->
   
