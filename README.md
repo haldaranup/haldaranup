@@ -1,10 +1,10 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anup](https://haldaranup.github.io/), Great to see you here!
 
 
-  - ✨ I'm a full-stack web developer
-  - 🌱 Currently learning TypeScript
-  - ⚡ A creative designer & specializes in front-end development
-  - 👯 Open-source enthusiast
+  -  I'm a full-stack web developer
+  -  Currently learning TypeScript
+  -  A creative designer & specializes in front-end development
+  -  Open-source enthusiast
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/> -->
   
   
