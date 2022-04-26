@@ -68,7 +68,7 @@ ___
 
 </a>
   
- <a href="https://medium.com/haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haldaranup" height="26" width="30" />
+ <a href="https://medium.com/@haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haldaranup" height="26" width="30" />
  </a>
   
  </p>
