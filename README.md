@@ -71,7 +71,7 @@ ___
 <a href="https://medium.com/@haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haldaranup" height="26" width="30" />
  </a>
   
-<a href="https://www.leetcode.com/haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haldaranup" height="30" width="40" />
+<a href="https://www.leetcode.com/haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haldaranup" height="30" width="40" display="inline" />
 </a>
   
  </p>
