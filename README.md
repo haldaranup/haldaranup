@@ -2,7 +2,7 @@
 
 
   -  I'm a full-stack web developer who writes interesting bugs
-  -  Creative designer & specializes in front-end development
+  -  Specializes in front-end development
   -  Currently learning TypeScript
   -  Open-source enthusiast
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/> -->
