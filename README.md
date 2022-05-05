@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anup](https://haldaranup.vercel.app/), Great to see you here!
 
 
-  -  I'm a full-stack web developer
+  -  I'm a full-stack web developer who writes interesting bugs
   -  Creative designer & specializes in front-end development
   -  Currently learning TypeScript
   -  Open-source enthusiast
