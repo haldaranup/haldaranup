@@ -1,4 +1,4 @@
-<h1> Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="29px">, I'm [Anup](https://anuphaldar.com/), Great to see you here!</h1>
+## Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="29px">, I'm [Anup](https://anuphaldar.com/), Great to see you here!
 
 
   -  I'm a full-stack web developer who writes interesting bugs
