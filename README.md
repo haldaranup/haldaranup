@@ -43,7 +43,7 @@
 
 
 ___
-<h2 align="left">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px"> </h2>
+<h2 align="left">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="29px"> </h2>
  <p>
 <a href="https://www.linkedin.com/in/haldar-anup">
  <img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
