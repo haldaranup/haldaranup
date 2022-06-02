@@ -5,7 +5,7 @@
   -  Open-source enthusiast
   -  Problem solver
 
-Checkout my [bio-link](https://bio.link/haldaranup)
+Checkout my personal portfolio website [https://anuphaldar.com](https://anuphaldar.com)
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/> -->
   
   
