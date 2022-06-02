@@ -1,6 +1,7 @@
 ## Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="29px" />, I'm [Anup](https://anuphaldar.com/), Great to see you here!
 
-  -  I'm a full-stack web developer who writes interesting bugs
+## About Me
+  -  A full-stack web developer who writes interesting bugs
   -  Specializes in front-end development
   -  Problem solver
   -  Open-source enthusiast
