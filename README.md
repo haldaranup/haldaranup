@@ -4,6 +4,8 @@
   -  Specializes in front-end development
   -  Open-source enthusiast
   -  Problem solver
+
+Checkout my [bio-link](https://bio.link/haldaranup)
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/> -->
   
   
