@@ -2,8 +2,8 @@
 
   -  I'm a full-stack web developer who writes interesting bugs
   -  Specializes in front-end development
-  -  Open-source enthusiast
   -  Problem solver
+  -  Open-source enthusiast
 
 Checkout my personal portfolio website [anuphaldar.com](https://anuphaldar.com) for more details.
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/> -->
