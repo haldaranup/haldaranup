@@ -72,7 +72,7 @@ ___
 </a>
   
 <a href="https://medium.com/@haldaranup" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haldaranup" height="28" width="30" />
+  <img height="28px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haldaranup" />
  </a>
   
 <!-- <a href="https://www.leetcode.com/haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haldaranup" height="30" width="40" display="inline" />
