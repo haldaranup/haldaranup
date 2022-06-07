@@ -56,7 +56,7 @@ ___
 
 </a>
 <a href="https://twitter.com/haldar_anup1" target="_blank">
- <img height="28px" width="28px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+ <img height="28px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 
 </a>
 <!-- 
