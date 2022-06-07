@@ -67,12 +67,12 @@ ___
   
   
 
-<a width="34px" href="https://www.instagram.com/haldaranup1/">
+<a width="64px" href="https://www.instagram.com/haldaranup1/">
  <img height="28px" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 
 </a>
   
-<a width="34px" href="https://medium.com/@haldaranup" target="blank">
+<a width="64px" href="https://medium.com/@haldaranup" target="blank">
   <img height="28px" width="28px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haldaranup" />
  </a>
   
