@@ -51,11 +51,11 @@ ___
 
 <h2 align="center">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"> </h2>
  <div align="center">
-<a href="https://www.linkedin.com/in/haldar-anup">
+<a align="center" href="https://www.linkedin.com/in/haldar-anup">
  <img align="center" height="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 
 </a>
-<a href="https://twitter.com/haldar_anup1" target="_blank">
+<a align="center" href="https://twitter.com/haldar_anup1" target="_blank">
  <img align="center" height="28px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 
 </a>
