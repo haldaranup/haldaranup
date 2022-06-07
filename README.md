@@ -49,7 +49,7 @@ Checkout my personal portfolio website [anuphaldar.com](https://anuphaldar.com) 
 
 ___
 <h2 align="left">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"> </h2>
- <p>
+ <p align="center">
 <a href="https://www.linkedin.com/in/haldar-anup">
  <img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 
