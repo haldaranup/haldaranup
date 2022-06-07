@@ -48,11 +48,7 @@ Checkout my personal portfolio website [anuphaldar.com](https://anuphaldar.com) 
 
 
 ___
-  
-div a {
-  margin-right: 40px;
-  
-  }  
+
 <h2 align="center">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"> </h2>
  <div align="center">
 <a href="https://www.linkedin.com/in/haldar-anup">
