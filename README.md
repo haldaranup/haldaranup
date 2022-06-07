@@ -51,7 +51,7 @@ ___
 <h2 align="center">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"> </h2>
  <div align="center">
 <a href="https://www.linkedin.com/in/haldar-anup">
- <img style="margin-right: 60px" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+ <img width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 
 </a>
 <a href="https://twitter.com/haldar_anup1" target="_blank">
