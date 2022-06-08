@@ -51,12 +51,6 @@ ___
 
 <h2 align="center">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"> </h2>
 
-<!-- <a href="mailto:haldaranup.github@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a> -->
-
-
-
 <p align="center">
 <a href="https://twitter.com/haldar_anup1" target="_blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" alt="haldaranup" height="30" width="38" /></a>
 <a href="https://www.linkedin.com/in/haldar-anup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haldaranup" height="30" width="40" /></a>
