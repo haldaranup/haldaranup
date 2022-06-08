@@ -52,11 +52,11 @@ ___
 <h2 align="left">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"> </h2>
  <p align="left">
 <a href="https://www.linkedin.com/in/haldar-anup">
- <img align="center" height="28px" width="38px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+ <img align="center" height="28" width="38" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 
 </a>
 <a href="https://twitter.com/haldar_anup1" target="_blank">
- <img align="center" height="28px" width="38px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+ <img align="center" height="28" width="38" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 
 </a>
 <!-- 
@@ -68,12 +68,12 @@ ___
   
 
 <a href="https://www.instagram.com/haldaranup1/">
- <img align="center" height="28px" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+ <img align="center" height="28" width="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 
 </a>
   
 <a href="https://medium.com/@haldaranup" target="blank">
-  <img align="center" height="28px" width="38px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haldaranup" />
+  <img align="center" height="28" width="38" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haldaranup" />
  </a>
   
 <!-- <a href="https://www.leetcode.com/haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haldaranup" height="30" width="40" display="inline" />
