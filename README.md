@@ -49,8 +49,8 @@ Checkout my personal portfolio website [anuphaldar.com](https://anuphaldar.com) 
 
 ___
 
-<h2 align="center">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"> </h2>
- <div align="center">
+<h2 align="left">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"> </h2>
+ <p align="left">
 <a href="https://www.linkedin.com/in/haldar-anup">
  <img height="28px" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 
@@ -79,7 +79,7 @@ ___
 <!-- <a href="https://www.leetcode.com/haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haldaranup" height="30" width="40" display="inline" />
 </a> -->
   
- </div>
+ </p>
 
 
 
