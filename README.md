@@ -6,7 +6,7 @@
   -  Problem solver
   -  Open-source enthusiast
 
-Checkout my [Bio Link]([bio.link/haldaranup](https://bio.link/haldaranup)) for more details.
+Checkout my [Bio Link](https://bio.link/haldaranup) for more details.
   
   
 ---
