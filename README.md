@@ -6,7 +6,7 @@
   -  Problem solver
   -  Open-source enthusiast
 
-Checkout my personal portfolio website [anuphaldar.com](https://anuphaldar.com) for more details.
+Checkout my personal portfolio [website](https://anuphaldar.com) for more details.
   
   
 ---
