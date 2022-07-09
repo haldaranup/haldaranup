@@ -6,7 +6,7 @@
   -  Problem solver
   -  Open-source enthusiast
 
-Checkout my personal portfolio [website](https://anuphaldar.com) for more details.
+Checkout my [bio.link](bio.link/haldaranup) for more details.
   
   
 ---
