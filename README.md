@@ -12,7 +12,7 @@ Checkout my [bio.link](https://bio.link/haldaranup) profile for more details.
 ---
 <h2 align="center">Statistics </h2>
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=tokyonight" />     
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=dark" />     
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
      <p/>
 
