@@ -1,7 +1,10 @@
 ## Hey <img align="center" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="29px" />, I'm [Anup](https://anuphaldar.com/), Great to see you here!
 
-<h2 align="center">About Me</h2>
-<h4 align="center">A passionate web developer who writes interesting bugs</h4>
+## About Me
+- A passionate **web developer** who writes interesting **bugs**
+- Specializes in **front-end development**
+- Problem solver
+- **Open-source** enthusiast
 
 
 #### *Checkout my [bio.link](https://bio.link/haldaranup) profile for more details.*
