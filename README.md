@@ -13,9 +13,13 @@
 ---
 <h2 align="center">Statistics </h2>
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=tokyonight" />     
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
-     <p/>
+<img width="450px" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=tokyonight" />     
+<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
+<p/>
+
+<p align="center">
+<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight" />
+<p/>
 
 
 
