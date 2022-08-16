@@ -1,10 +1,10 @@
-## Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="29px" />, I'm [Anup](https://anuphaldar.com/), Great to see you here!
+## Hey <img align="center" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="29px" />, I'm [Anup](https://anuphaldar.com/), Great to see you here!
 
 <h2 align="center">About Me</h2>
-<h4 align="center">A passionate **web developer** who writes interesting *bugs*</h4>
+<h4 align="center">A passionate web developer who writes interesting bugs</h4>
 
 
-### *Checkout my [bio.link](https://bio.link/haldaranup) profile for more details.*
+#### *Checkout my [bio.link](https://bio.link/haldaranup) profile for more details.*
   
   
 ---
