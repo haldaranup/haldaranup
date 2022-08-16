@@ -19,11 +19,11 @@ Checkout my [bio.link](https://bio.link/haldaranup) profile for more details.
 
 
      
----
+<!-- ---
 <h2 align="center">Languages</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight" />
-    <p/>
+    <p/> -->
 
 ---
 <h2 align="center">Contribution Graph 📊</h2>
