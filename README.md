@@ -63,7 +63,7 @@ ___
 
 ___
 <h3 align="center">Support 💰</h3>
-<p><a href="https://www.buymeacoffee.com/haldaranup"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="df" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/haldaranup"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="140" alt="haldaranup" /></a></p>
 
  
 
