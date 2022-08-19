@@ -60,6 +60,11 @@ ___
 <a href="https://medium.com/@haldaranup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="haldaranup" height="30" width="40" /></a>
 </p>
 
+<!--
+___
+<h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/df"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="df" /></a></p>
+-->
  
 
 
