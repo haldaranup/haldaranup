@@ -7,7 +7,7 @@
 - **Open-source** enthusiast
 
 
-#### *Checkout my [bio.link](https://bio.link/haldaranup) profile for more details.*
+#### *Checkout my [portfolio](https://anuphaldar.com) or [bio.link](https://bio.link/haldaranup) profile for more details.*
   
   
 ---
