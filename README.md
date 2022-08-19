@@ -5,11 +5,10 @@
 - Specializes in **front-end development**
 - Problem solver
 - **Open-source** enthusiast
-
-
 #### *Checkout my [portfolio](https://anuphaldar.com) or [bio.link](https://bio.link/haldaranup) profile for more details.*
-  
-  
+
+
+
 ---
 <h2 align="center">Statistics 📈 </h2>
 <p align="center">
@@ -19,22 +18,33 @@
 
 
 
-
-     
 <!-- ---
 <h2 align="center">Languages</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight" />
-    <p/> -->
+<p/> -->
+
+
 
 ---
 <h2 align="center">Contribution Graph 📊</h2>
-
 <img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" />    
-    
+  
+  
+ 
 ---
  <h2 align="center">Tools & Technologies ⚡</h2>
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://mui.com" target="_blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp; </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </p>
+<p align="center"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="./src/images/tech/js.png" alt="javascript" height="40"/> </a>  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/html5.png" alt="html5" height="40" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/css3.png" alt="css3" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="./src/images/tech/sass.png" alt="sass" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/react.png" alt="react" height="40"/> </a> 
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="./src/images/tech/redux.png" alt="redux" height="40"/> </a> 
+<a href="https://mui.com" target="_blank" rel="noreferrer">  <img src="./src/images/tech/mui.png" title="Material UI" alt="Material UI" height="40" />&nbsp; </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/ts.png" alt="typescript" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/git.png" alt="git" height="40"/> </a>  
+</p>
 
 
 
@@ -50,9 +60,7 @@
 
 
 ___
-
-<h2 align="center">Let's Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"> </h2>
-
+<h2 align="center">Let's Connect<img src="./src/gifs/handshake.gif" height="32px"> </h2>
 <p align="center">
 <a href="https://twitter.com/haldar_anup1" target="_blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" alt="haldaranup" height="28" width="38" /></a>
 <a href="https://www.linkedin.com/in/haldar-anup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haldaranup" height="30" width="42" /></a>
@@ -61,9 +69,12 @@ ___
 </p>
 
 
+
 ___
 <h2 align="center">Support 💰</h2>
-<p align="center"><a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="36" border="0" alt="haldaranup" /></a></p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="./src/images/social/buymeacoffee.png" height="36" border="0" alt="haldaranup" /></a>
+</p>
 
  
 
