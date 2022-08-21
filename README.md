@@ -3,8 +3,8 @@
 ## About Me 😄
 - A passionate **web developer** who writes interesting **bugs**
 - Specializes in **front-end development**
-- Problem solver
 - **Open-source** enthusiast
+- Sometimes I write, here is my **[medium](https://medium.com/@haldaranup)** profile
 #### *Checkout my [portfolio](https://anuphaldar.com) or [bio.link](https://bio.link/haldaranup) profile for more details.*
 
 
