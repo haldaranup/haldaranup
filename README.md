@@ -5,7 +5,7 @@
 - *Specializes in **front-end development***
 - ***Open-source** enthusiast*
 - *Sometimes I write, here is my **[medium](https://medium.com/@haldaranup)** profile*
-#### Checkout my [bio.link](https://bio.link/haldaranup) profile for more details.
+#### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
 
 
 
