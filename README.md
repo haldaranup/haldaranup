@@ -4,7 +4,7 @@
 - *A passionate **web developer** who writes interesting **bugs***
 - *Specializes in **front-end development***
 - ***Open-source** enthusiast*
-- *Sometimes I write, here is my **[medium](https://medium.com/@haldaranup)** profile*
+- *Sometimes I write blogs on **[medium](https://medium.com/@haldaranup)***
 #### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
 
 
