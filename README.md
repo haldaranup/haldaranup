@@ -75,7 +75,7 @@ ___
 ___
 <h2 align="center">Support 💰</h2>
 <p align="center">
-<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="./src/images/social/buymeacoffee.png" height="34" border="0" alt="haldaranup" /></a>
+<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="./src/images/social/buymeacoffee.png" height="32" border="0" alt="haldaranup" /></a>
 </p>
 
  
