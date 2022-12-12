@@ -28,8 +28,11 @@
 
 ---
 <h2 align="center">Contribution Graph 📊</h2>
-<img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" />    
-  
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=haldaranup&theme=chartreuse-dark" />  
+
+
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" />    -->
+
   
  
 ---
