@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 128L128 128L128 0L0 0z"/>
+<path style="fill:#414137; stroke:none;" d="M67 47L67 60C50.5807 57.1819 49.9889 82.3855 65 80.5015C77.793 78.8959 78.5195 49.352 67 47z"/>
+<path style="fill:#018101; stroke:none;" d="M11 59L12 60L11 59z"/>
+<path style="fill:#414137; stroke:none;" d="M4 79L13.5756 68.4846L23 79C23 74.6925 24.2351 68.0467 21.9722 64.213C18.4485 58.2431 8.5515 58.2431 5.02778 64.213C2.76489 68.0467 4 74.6925 4 79z"/>
+<path style="fill:#018101; stroke:none;" d="M15 59L16 60L15 59z"/>
+<path style="fill:#84cd29; stroke:none;" d="M37 59.7037C24.797 62.4934 27.2636 82.5809 40 80.3966C53.8754 78.0169 50.4016 56.64 37 59.7037z"/>
+<path style="fill:#018101; stroke:none;" d="M65 59L66 60L65 59z"/>
+<path style="fill:#414137; stroke:none;" d="M95 79L95 76L92 72C105.586 67.6101 92.5109 55.8815 83.0586 61.75C71.0806 69.1867 83.844 83.0277 95 79z"/>
+<path style="fill:#84cd29; stroke:none;" d="M112 59.7176C99.4005 63.357 102.876 83.0455 116 80.304C129.045 77.5789 125.282 55.881 112 59.7176z"/>
+<path style="fill:#ffff01; stroke:none;" d="M118 60L119 61L118 60M108 61L109 62L108 61z"/>
+<path style="fill:#010101; stroke:none;" d="M107 75L110 75L110 65L113 67C121.422 63.1164 122.976 77.3889 112 73C112.785 82.8047 123.73 74.3981 121.681 67.2099C120.065 61.5405 112.241 60.7236 108.603 64.7901C106.272 67.3966 107 71.7721 107 75z"/>
+<path style="fill:#018101; stroke:none;" d="M55 63L56 64L55 63z"/>
+<path style="fill:#010101; stroke:none;" d="M88.6667 67.3333L89.3333 67.6667L88.6667 67.3333M61 72L67 72C65.6037 67.7988 62.3964 67.7988 61 72z"/>
+<path style="fill:#84cd29; stroke:none;" d="M87 68L90 73L91 68L87 68z"/>
+<path style="fill:#010101; stroke:none;" d="M116.667 68.3333L117.333 68.6667L116.667 68.3333M86.3333 69.6667L86.6667 70.3333L86.3333 69.6667M112.333 69.6667L112.667 70.3333L112.333 69.6667z"/>
+<path style="fill:#ffff01; stroke:none;" d="M113 70L114 71L113 70z"/>
+<path style="fill:#010101; stroke:none;" d="M115 71L116 73L117 73L118 71L115 71z"/>
+<path style="fill:#ffff01; stroke:none;" d="M88 72L89 73L88 72M121 74L122 75L121 74z"/>
+<path style="fill:#018101; stroke:none;" d="M85 79L86 80L85 79z"/>
+</svg>
