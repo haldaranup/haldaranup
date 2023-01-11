@@ -42,9 +42,9 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/html5.png" alt="html5" height="40" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/css3.png" alt="css3" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="./src/images/tech/sass.png" alt="sass" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/react.png" alt="react" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/reactjs.png" alt="react" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="./src/images/tech/redux.png" alt="redux" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="./src/svgs/vuejs-logo.svg" alt="vuejs" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/vuejs.png" alt="vuejs" height="40"/> </a>
 <a href="https://mui.com" target="_blank" rel="noreferrer">  <img src="./src/images/tech/mui.png" title="Material UI" alt="Material UI" height="40" />&nbsp; </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./src/images/tech/nodejs.png" alt="nodejs" height="40"/> </a> 
 <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/mongodb.png" alt="mongodb" height="40"/> </a> 
@@ -69,7 +69,7 @@ ___
 <h2 align="center">Let's Connect<img src="./src/gifs/handshake.gif" height="32px"> </h2>
 <p align="center">
 <a href="https://twitter.com/haldar_anup1" target="_blank"><img align="center" src="./src/images/social/twitter.png" alt="haldaranup" height="28" width="38" /></a>
-<a href="https://www.linkedin.com/in/haldaranup/" target="blank"><img align="center" src="./src/svgs/linked-in-alt.svg" alt="haldaranup" height="30" width="42" /></a>
+<a href="https://www.linkedin.com/in/haldaranup/" target="blank"><img align="center" src="./src/svgs/linkedin.svg" alt="haldaranup" height="30" width="42" /></a>
 <a href="https://www.instagram.com/haldar_anup1/" target="blank"><img align="center" src="./src/svgs/instagram.svg" alt="haldaranup" height="30" width="40" /></a>
 <a href="https://medium.com/@haldaranup" target="blank"><img align="center" src="./src/svgs/medium.svg" alt="haldaranup" height="30" width="40" /></a>
 </p>
