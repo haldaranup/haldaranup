@@ -68,10 +68,10 @@
 ___
 <h2 align="center">Let's Connect<img src="./src/gifs/handshake.gif" height="32px"> </h2>
 <p align="center">
-<a href="https://twitter.com/haldar_anup1" target="_blank"><img align="center" src="./src/images/social/twitter.png" alt="haldaranup" height="28" width="38" /></a>
-<a href="https://www.linkedin.com/in/haldaranup/" target="blank"><img align="center" src="./src/svgs/linkedin.svg" alt="haldaranup" height="30" width="42" /></a>
-<a href="https://www.instagram.com/haldar_anup1/" target="blank"><img align="center" src="./src/svgs/instagram.svg" alt="haldaranup" height="30" width="40" /></a>
-<a href="https://medium.com/@haldaranup" target="blank"><img align="center" src="./src/svgs/medium.svg" alt="haldaranup" height="30" width="40" /></a>
+<a href="https://twitter.com/haldar_anup1" target="_blank"><img align="center" src="./src/images/social/twitter.png" alt="anup" height="28" width="38" /></a>
+<a href="https://www.linkedin.com/in/haldaranup/" target="blank"><img align="center" src="./src/svgs/social/linkedin.svg" alt="anup" height="30" width="42" /></a>
+<a href="https://www.instagram.com/haldar_anup1/" target="blank"><img align="center" src="./src/svgs/social/instagram.svg" alt="anup" height="30" width="40" /></a>
+<a href="https://medium.com/@haldaranup" target="blank"><img align="center" src="./src/svgs/social/medium.svg" alt="haldaranup" height="30" width="40" /></a>
 </p>
 
 
