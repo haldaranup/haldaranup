@@ -37,7 +37,14 @@
  
 ---
  <h2 align="center">Tools & Technologies ⚡</h2>
-<p align="center"> 
+ <p align="center">
+  <a href="https://anuphaldar.com">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,redux,vue,express,nodejs,mongodb,typescript,git" />
+  </a>
+</p>
+ 
+ 
+<!-- <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="./src/images/tech/js.png" alt="javascript" height="40"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/html5.png" alt="html5" height="40" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/css3.png" alt="css3" height="40"/> </a> 
@@ -50,7 +57,7 @@
 <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/mongodb.png" alt="mongodb" height="40"/> </a> 
 <a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/ts.png" alt="typescript" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/git.png" alt="git" height="40"/> </a>   
-</p>
+</p> -->
 
 
 
@@ -67,19 +74,34 @@
 
 ___
 <h2 align="center">Let's Connect<img src="./src/gifs/handshake.gif" height="32px"> </h2>
-<p align="center">
+ <p align="center">
+  <a href="https://twitter.com/haldar_anup1">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/haldaranup">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://medium.com/@haldaranup">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504925.png" height="48" width="48" />
+  </a>
+  <a href="https://www.instagram.com/haldar_anup1">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+<!-- <p align="center">
 <a href="https://twitter.com/haldar_anup1" target="_blank"><img align="center" src="./src/images/social/twitter.png" alt="anup" height="28" width="38" /></a>
 <a href="https://www.linkedin.com/in/haldaranup/" target="blank"><img align="center" src="./src/svgs/social/linkedin.svg" alt="anup" height="30" width="42" /></a>
 <a href="https://www.instagram.com/haldar_anup1/" target="blank"><img align="center" src="./src/svgs/social/instagram.svg" alt="anup" height="30" width="40" /></a>
 <a href="https://medium.com/@haldaranup" target="blank"><img align="center" src="./src/svgs/social/medium.svg" alt="haldaranup" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 
 ___
 <h2 align="center">Support 💰</h2>
 <p align="center">
-<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="./src/images/social/buymeacoffee.png" width="116" border="0" alt="haldaranup" /></a>
+<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="/src/images/social/buymeacoffee.png" width="116" border="0" alt="haldaranup" /></a>
 </p>
 
  
