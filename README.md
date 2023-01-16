@@ -1,4 +1,4 @@
-## Hey <img src="./src/gifs/hi.gif" width="29">, I'm [Anup](https://anuphaldar.com/), Great to see you here!
+## Hey <img src="https://gist.github.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, I'm [Anup](https://anuphaldar.com/), Great to see you here!
 
 ## About Me 🙂
 - *A passionate **web developer** who writes interesting **bugs***
@@ -73,7 +73,7 @@
 
 
 ___
-<h2 align="center">Let's Connect<img src="./src/gifs/handshake.gif" height="32px"> </h2>
+<h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"> </h2>
  <p align="center">
   <a href="https://twitter.com/haldar_anup1">
     <img src="https://skillicons.dev/icons?i=twitter" />
@@ -101,7 +101,7 @@ ___
 ___
 <h2 align="center">Support 💰</h2>
 <p align="center">
-<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" width="116" border="0" alt="haldaranup" /></a>
+<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="https://gist.github.com/haldaranup/2f8a08a98e7424d68e7b53d18639ce09/raw/cdab115f48d1bcfcd0b30ab663ee1fe5d7edf110/buymeacoffee.png" width="116" border="0" alt="haldaranup" /></a>
 </p>
 
  
