@@ -82,7 +82,7 @@ ___
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://medium.com/@haldaranup">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504925.png" height="48" width="48" />
+    <img src="https://gist.github.com/haldaranup/d3e2a54e5909a37cb7cf212bf83b3e6c/raw/63631d4cfd5d53de4513ac774f0008aa235c6aba/medium.png" height="48" width="48" />
   </a>
   <a href="https://www.instagram.com/haldar_anup1">
     <img src="https://skillicons.dev/icons?i=instagram" />
