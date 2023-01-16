@@ -101,7 +101,7 @@ ___
 ___
 <h2 align="center">Support 💰</h2>
 <p align="center">
-<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="/src/images/social/buymeacoffee.png" width="116" border="0" alt="haldaranup" /></a>
+<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" width="116" border="0" alt="haldaranup" /></a>
 </p>
 
  
