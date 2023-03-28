@@ -18,14 +18,6 @@
 
 
 
-<!-- ---
-<h2 align="center">Languages</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight" />
-<p/> -->
-
-
-
 ---
 <h2 align="center">Contribution Graph 📊</h2>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=haldaranup&theme=chartreuse-dark" />  
@@ -42,6 +34,35 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,redux,vue,nodejs,express,mongodb,typescript,git" />
   </a>
 </p>
+
+
+
+___
+<h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"> </h2>
+ <p align="center">
+  <a href="https://twitter.com/haldar_anup1">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/haldaranup">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://medium.com/@haldaranup">
+    <img src="https://gist.github.com/haldaranup/d3e2a54e5909a37cb7cf212bf83b3e6c/raw/63631d4cfd5d53de4513ac774f0008aa235c6aba/medium.png" height="48" width="48" />
+  </a>
+  <a href="https://www.instagram.com/haldar_anup1">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+
+___
+<h2 align="center">Support 💰</h2>
+<p align="center">
+<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="https://gist.github.com/haldaranup/2f8a08a98e7424d68e7b53d18639ce09/raw/cdab115f48d1bcfcd0b30ab663ee1fe5d7edf110/buymeacoffee.png" width="116" border="0" alt="haldaranup" /></a>
+</p>
+
+
+
  
  
 <!-- <p align="center"> 
@@ -70,24 +91,6 @@
 <!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> -->
 
 
-
-___
-<h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"> </h2>
- <p align="center">
-  <a href="https://twitter.com/haldar_anup1">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/haldaranup">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://medium.com/@haldaranup">
-    <img src="https://gist.github.com/haldaranup/d3e2a54e5909a37cb7cf212bf83b3e6c/raw/63631d4cfd5d53de4513ac774f0008aa235c6aba/medium.png" height="48" width="48" />
-  </a>
-  <a href="https://www.instagram.com/haldar_anup1">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
-
 <!-- <p align="center">
 <a href="https://twitter.com/haldar_anup1" target="_blank"><img align="center" src="./src/images/social/twitter.png" alt="anup" height="28" width="38" /></a>
 <a href="https://www.linkedin.com/in/haldaranup/" target="blank"><img align="center" src="./src/svgs/social/linkedin.svg" alt="anup" height="30" width="42" /></a>
@@ -95,14 +98,15 @@ ___
 <a href="https://medium.com/@haldaranup" target="blank"><img align="center" src="./src/svgs/social/medium.svg" alt="haldaranup" height="30" width="40" /></a>
 </p> -->
 
-
-___
-<h2 align="center">Support 💰</h2>
-<p align="center">
-<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="https://gist.github.com/haldaranup/2f8a08a98e7424d68e7b53d18639ce09/raw/cdab115f48d1bcfcd0b30ab663ee1fe5d7edf110/buymeacoffee.png" width="116" border="0" alt="haldaranup" /></a>
-</p>
-
  
+
+
+<!-- ---
+<h2 align="center">Languages</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight" />
+<p/> -->
+
 
 <!-- **haldaranup/haldaranup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
