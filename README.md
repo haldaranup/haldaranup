@@ -20,8 +20,10 @@
 
 ---
 <h2 align="center">Contribution Graph 📊</h2>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=haldaranup&theme=chartreuse-dark" />  
+<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=haldaranup&theme=chartreuse-dark" />   -->
 
+[![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haldaranup&theme=react-dark)](https://github.com/haldaranup/github-readme-activity-graph)
+<!-- github-compact, dracula, react, react-dark, github, xcode, rougue, merko, vue, tokyo-night, high-contrast -->
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=haldaranup&theme=chartreuse-dark" />    -->
 
