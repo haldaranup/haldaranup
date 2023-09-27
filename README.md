@@ -59,11 +59,11 @@ ___
 </p>
 
 
-___
+<!--___
 <h2 align="center">Support 💰</h2>
 <p align="center">
 <a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="https://gist.github.com/haldaranup/2f8a08a98e7424d68e7b53d18639ce09/raw/cdab115f48d1bcfcd0b30ab663ee1fe5d7edf110/buymeacoffee.png" width="116" border="0" alt="haldaranup" /></a>
-</p>
+</p> -->
 
 
 
