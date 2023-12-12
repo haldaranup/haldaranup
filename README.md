@@ -66,7 +66,6 @@ ___
 </p> -->
 
 
-
 <!-- <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="./src/images/tech/js.png" alt="javascript" height="40"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/html5.png" alt="html5" height="40" /></a>
