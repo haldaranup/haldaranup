@@ -11,12 +11,11 @@
 
 ---
 <h2 align="center">Statistics 📈 </h2>
-<p align="center">
-<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&theme=tokyonight" />     
-<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" />
-<p/>
 
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=haldaranup&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anup's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldaranup&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
 
+<!-- <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=haldaranup&show_icons=true&theme=tokyonight" /> -->
 
 ---
 <h2 align="center">Contribution Graph 📊</h2>
